@@ -3,7 +3,7 @@
 
 </h1>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/guilhermesouza48?style=social)
+
 ##Colocar imagens e videos do projeto
 
 <h3 align="center">
@@ -31,6 +31,8 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 
 - IncScape;
 - HTML e CSS;
+
+## Status do projeto : ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
 
@@ -69,3 +71,5 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
               </td>
          </tr>
 </table>
+
+
