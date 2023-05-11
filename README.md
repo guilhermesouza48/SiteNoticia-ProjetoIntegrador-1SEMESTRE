@@ -10,10 +10,17 @@
 
 ## 🔖 Páginas
 
-O Website é composto por 6 páginas:
+O Website é composto por 5 páginas:
 
-- **Home:** Na tela de Home temos as principais notícias e também a visualização do início do site após a pessoa entrar
-- 
+- **Home:** Na tela de 'Home' temos as principais notícias e também a visualização do início do site após a pessoa entrar;
+- **Resenhas:** Na tela 'Resenha' temos a visualização de comentários de jogos já finalizados com opnião (sem spoiler) de críticos ou jogadores amantes de jogos;
+- **Atualizações:** Na tela de 'Atualizações' podemos ver que mostra todas as notícias relacionadas a atualizações de jogos;
+- **Games:** Na tela de 'Games' podemos verificar quais próximos lançamentos de jogos;
+- **A 9ª Geração de consoles:** Nesta tela poderemos verificas atualizações e ou até mesmo o surgimento da nova geração de consoles;
+
+Menu LIVES:
+
+- **LIVES:** É uma parte do menu que mostra colaboradores do site que fazem lives correspondente a games, tanto gameplay como comentários e notícias sobre jogos;
 
 ---
 
