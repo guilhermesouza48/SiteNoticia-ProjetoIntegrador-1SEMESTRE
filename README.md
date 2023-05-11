@@ -1,8 +1,9 @@
 <h1 align="center" font-weight=”bold” color=#00AEFF>
             🦉🎮 Corujão Games  
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
 </h1>
 
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 ##Colocar imagens e videos do projeto
 
 <h3 align="center">
