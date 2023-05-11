@@ -31,33 +31,31 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 <table>
        <tr>
             <td align="center">
-                    <a href="https://avatars.githubusercontent.com/u/79008811?v=4">
-                           <img src="" width="100px;" alt="Foto do Guilherme Souza no GitHub"/>
+                    <a href="https://github.com/guilhermesouza48">
+                           <img src="https://avatars.githubusercontent.com/u/79008811?v=4" width="250px;" alt="Foto do Guilherme Souza no GitHub"/>
                      <br>
                           <sub>
                              <b>Guilherme Souza</b>
                           </sub>
                       </a>
               </td>
-
-             <td align="center">
+            <td align="center">
                     <a href="https://github.com/YonErick">
-                           <img src="" width="100px;" alt="Foto do Eick no GitHub"/>
+                           <img src="https://avatars.githubusercontent.com/u/79008664?v=4" width="250px;" alt="Foto do Eick no GitHub"/>
                      <br>
                           <sub>
                              <b>Erick Cardoso</b>
                           </sub>
                       </a>
-              </td>
-
+             </td>
              <td align="center">
                     <a href="https://github.com/GabrielHenrique0">
-                           <img src="" width="100px;" alt="Foto do Gabriel Henrique no GitHub"/>
+                           <img src="https://avatars.githubusercontent.com/u/79008744?v=4" width="250px;" alt="Foto do Gabriel Henrique no GitHub"/>
                      <br>
                           <sub>
                              <b>Gabriel Henrique</b>
                           </sub>
                       </a>
               </td>
-       </tr>
+         </tr>
 </table>
