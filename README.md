@@ -31,7 +31,7 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 <table>
        <tr>
             <td align="center">
-                    <a href="[https://github.com/](https://github.com/iuricode)guilhermesouza48">
+                    <a href="https://github.com/guilhermesouza48">
                            <img src="" width="100px;" alt="Foto do Guilherme Souza no GitHub"/>
                      <br>
                           <sub>
@@ -41,7 +41,7 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
               </td>
 
              <td align="center">
-                    <a href="[https://github.com/YonErick](https://github.com/YonErick)">
+                    <a href="https://github.com/YonErick">
                            <img src="" width="100px;" alt="Foto do Eick no GitHub"/>
                      <br>
                           <sub>
@@ -51,7 +51,7 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
               </td>
 
              <td align="center">
-                    <a href="[https://github.com/GabrielHenrique0](https://github.com/GabrielHenrique0)">
+                    <a href="https://github.com/GabrielHenrique0">
                            <img src="" width="100px;" alt="Foto do Gabriel Henrique no GitHub"/>
                      <br>
                           <sub>
