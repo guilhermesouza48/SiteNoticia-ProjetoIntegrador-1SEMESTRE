@@ -32,7 +32,7 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 
 
 
-<h1 align=”center”>
+<h1 align="center" font-weight=”bold” color="00AEFF">
             🧠 CRIADORES :
 </h1>
 
