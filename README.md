@@ -34,7 +34,7 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 
 ## Status do projeto : 
 
-![Finalizado!!!](http://img.shields.io/static/v1?label=STATUS&message=Finalizado!!!&color=GREEN&style=for-the-badge)
+![Finalizado!!!](http://img.shields.io/static/v1?label=STATUS&message=Finalizado!!!&color=GREEN&align="center"&style=for-the-badge)
 
 <h1 align="center" font-weight=”bold” color="00AEFF">
             🧠 CRIADORES :
