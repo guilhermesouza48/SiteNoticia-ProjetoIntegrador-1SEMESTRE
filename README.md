@@ -1,18 +1,18 @@
-<h1 align="center" font-weight=”bold”>
-🎮 Corujão Games  🎮
+<h1 align="center" font-weight=”bold” color="00AEFF">
+🦉🎮 Corujão Games  
 </h1>
 
 ##Colocar imagens e videos do projeto
 
 <h3 align="center">
-            <a href="https://www.figma.com/file/qIfEEm6K90Kf2PNiyE5FZh/MetaGames?node-id=0%3A1&t=86lfRQy0IgItV5cT-1">Figma do projeto!!! (Click aqui)</a>
+            <a href="https://www.behance.net/gallery/170170991/Corujao-Games-1PI" color="00AEFF">Behance!!! (Click aqui)</a>
 </h3>
 
-## 🔖 Seções
+## 🔖 Páginas
 
-O App é composto por (NUMERO DE SEÇÕES) seções:
+O Website é composto por 6 páginas:
 
-- **Home:** Nele temos uma breve apresentação do aplicativo;
+- **Home:** Na tela de Home temos as principais notícias e também a visualização do início do site após a pessoa entrar
 - 
 
 ---
@@ -22,7 +22,7 @@ O App é composto por (NUMERO DE SEÇÕES) seções:
 Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 
 - IncScape;
-- HTML e CSS
+- HTML e CSS;
 
 ---
 
