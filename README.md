@@ -3,7 +3,7 @@
 
 </h1>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/guilhermesouza48?style=social)
 ##Colocar imagens e videos do projeto
 
 <h3 align="center">
