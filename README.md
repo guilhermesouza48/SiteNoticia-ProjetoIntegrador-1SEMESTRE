@@ -32,9 +32,9 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 - IncScape;
 - HTML e CSS;
 
-## Status do projeto : ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+## Status do projeto : 
 
-
+![Finalizado!!!](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <h1 align="center" font-weight=”bold” color="00AEFF">
             🧠 CRIADORES :
