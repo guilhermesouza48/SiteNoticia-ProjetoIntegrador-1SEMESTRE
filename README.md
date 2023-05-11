@@ -1,6 +1,5 @@
 <h1 align="center" font-weight=”bold” color=#00AEFF>
             🦉🎮 Corujão Games  
-
 </h1>
 
 
@@ -32,11 +31,12 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 - IncScape;
 - HTML e CSS;
 
-## Status do projeto : 
+<h2 align="center">
+            Status Projeto : 
+</h2>
 
-<p align="center">
-            ![Finalizado!!!](http://img.shields.io/static/v1?label=STATUS&message=Finalizado!!!&color=GREEN&style=for-the-badge)
-</p>
+![Finalizado!!!](http://img.shields.io/static/v1?label=STATUS&message=Finalizado!!!&color=GREEN&style=for-the-badge)
+
 
 <h1 align="center" font-weight=”bold” color="00AEFF">
             🧠 CRIADORES :
