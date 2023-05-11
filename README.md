@@ -1,5 +1,5 @@
 <h1 align="center" font-weight=”bold” color="00AEFF">
-🦉🎮 Corujão Games  
+            🦉🎮 Corujão Games  
 </h1>
 
 ##Colocar imagens e videos do projeto
@@ -32,7 +32,9 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 
 
 
-<h1 align=”center”>🧠 CRIADORES :</h1>
+<h1 align=”center”>
+            🧠 CRIADORES :
+</h1>
 
 <table>
        <tr>
