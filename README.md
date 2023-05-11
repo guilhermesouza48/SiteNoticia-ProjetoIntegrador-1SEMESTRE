@@ -3,7 +3,7 @@
 </h1>
 
 
-##Colocar imagens e videos do projeto
+![Imagens site](https://github.com/guilhermesouza48/SiteNoticia-ProjetoIntegrador-1SEMESTRE/assets/79008811/1b3f973e-3931-496f-9289-1820d10d722d)
 
 <h3 align="center">
             <a href="https://www.behance.net/gallery/170170991/Corujao-Games-1PI">Behance ( Click aqui !!! )</a>
