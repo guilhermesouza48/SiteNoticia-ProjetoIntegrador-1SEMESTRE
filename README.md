@@ -22,7 +22,6 @@ Menu LIVES:
 
 - **LIVES:** É uma parte do menu que mostra colaboradores do site que fazem lives correspondente a games, tanto gameplay como comentários e notícias sobre jogos;
 
----
 
 ## 📱 Tecnologias utilizadas
 
@@ -31,7 +30,7 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 - IncScape;
 - HTML e CSS;
 
----
+
 
 <h1 align=”center”>🧠 CRIADORES :</h1>
 
