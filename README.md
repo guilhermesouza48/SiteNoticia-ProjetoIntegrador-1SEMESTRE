@@ -29,8 +29,8 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 <h1 align=”center”>🧠 CRIADORES :</h1>
 
 <table>
-       <tr>
-            <td align="center" margin-right="25px">
+       <tr padding-right=20px>
+            <td align="center">
                     <a href="https://github.com/guilhermesouza48">
                            <img src="https://avatars.githubusercontent.com/u/79008811?v=4" width="250px;" alt="Foto do Guilherme Souza no GitHub"/>
                      <br>
