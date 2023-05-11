@@ -30,7 +30,7 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 
 <table>
        <tr>
-            <td align="center">
+            <td align="center" margin-right=25px>
                     <a href="https://github.com/guilhermesouza48">
                            <img src="https://avatars.githubusercontent.com/u/79008811?v=4" width="250px;" alt="Foto do Guilherme Souza no GitHub"/>
                      <br>
