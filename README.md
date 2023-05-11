@@ -1,4 +1,4 @@
-<h1 align="center" font-weight=”bold” color="#00AEFF">
+<h1 align="center" font-weight=”bold” color=#00AEFF>
             🦉🎮 Corujão Games  
 </h1>
 
