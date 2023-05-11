@@ -1,11 +1,11 @@
-<h1 align="center" font-weight=”bold” color="00AEFF">
+<h1 align="center" font-weight=”bold” color="#00AEFF">
             🦉🎮 Corujão Games  
 </h1>
 
 ##Colocar imagens e videos do projeto
 
 <h3 align="center">
-            <a href="https://www.behance.net/gallery/170170991/Corujao-Games-1PI" color="00AEFF">Behance!!! (Click aqui)</a>
+            <a href="https://www.behance.net/gallery/170170991/Corujao-Games-1PI" color="#00AEFF">Behance!!! (Click aqui)</a>
 </h3>
 
 ## 🔖 Páginas
