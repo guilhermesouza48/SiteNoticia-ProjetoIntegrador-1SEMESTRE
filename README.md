@@ -31,7 +31,7 @@ Para o desenvolvimento deste Website utilizamos as seguintes tecnologias:
 - IncScape;
 - HTML e CSS;
 
-<h2 align="center">
+<h2>
             Status Projeto : 
 </h2>
 
